@@ -1,0 +1,7 @@
+Numpy was created by Travis Oliphant in 2005.
+numpy is a python library.
+-use for mathematical operaton
+
+Installation:
+    -pip install Numpy
+-import numpy as np (np is alias="short representation")
